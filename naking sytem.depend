@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1695831065 source:c:\users\user\documents\naking sytem\main.cpp
+	<iostream>
+	<fstream>
+	<unistd.h>
+
+1695627696 source:c:\users\user\documents\naking sytem\trial.c
+
